@@ -5,11 +5,5 @@ google-generativeai
 pandas
 openpyxl
 pypdf
-python-dotenvfastapi
-uvicorn
-python-multipart
-google-generativeai
-pandas
-openpyxl
-pypdf
 python-dotenv
+pydantic
